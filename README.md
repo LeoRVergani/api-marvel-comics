@@ -21,13 +21,13 @@ Este projeto é uma aplicação JavaScript que utiliza a API da Marvel para exib
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/LeoRVergani/api-marvel-comics.git
    ```
 
 2. Navegue até a pasta do projeto:
 
    ```bash
-   cd seu-repositorio
+   cd api-marvel-comics
    ```
 
 3. Instale as dependências:
